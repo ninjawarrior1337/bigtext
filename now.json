@@ -1,0 +1,5 @@
+{
+  "alias": "big.treelar.tk",
+  "name": "bigtext",
+  "builds": [{ "src": "package.json", "use": "@now/static-build" }]
+}

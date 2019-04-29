@@ -1,2 +1,0 @@
-# bigtext
-Created with CodeSandbox
